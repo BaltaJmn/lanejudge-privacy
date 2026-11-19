@@ -1,0 +1,10 @@
+body { margin: 0; background: #f6f1e7; color: #1b1b1f; font: 18px/1.55 ui-rounded, "SF Pro Rounded", -apple-system, "Helvetica Neue", Arial, sans-serif; }
+.flag { height: 26px; background: repeating-conic-gradient(#1b1b1f 0 25%, #fff 0 50%) 0 0 / 26px 26px; }
+main { max-width: 640px; margin: 0 auto; padding: 44px 22px 72px; }
+h1 { font-size: 42px; font-weight: 800; line-height: 1.05; margin: 0 0 14px; }
+h2 { font-size: 22px; font-weight: 800; margin: 36px 0 6px; }
+a { color: #e0352b; font-weight: 600; }
+.lane { border-left: 8px solid #e0352b; background: #fff; border-radius: 12px; padding: 14px 18px; margin: 12px 0; }
+.lane:nth-of-type(2) { border-color: #236fdd; } .lane:nth-of-type(3) { border-color: #229d58; } .lane:nth-of-type(4) { border-color: #f2990a; }
+small, footer { color: #6b6b73; font-size: 14px; }
+footer { margin-top: 48px; }
